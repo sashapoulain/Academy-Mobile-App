@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Mevzuat"
+        android:id="@+id/mevzuat"
+        android:icon="@drawable/siyah_mevzuat">
+    </item>
+    <item android:title="Arşiv"
+        android:icon="@drawable/siyah_arsiv"
+        android:id="@+id/arsiv">
+
+    </item>
+    <item
+        android:title="Destek ve Yardım"
+        android:id="@+id/destek"
+        android:icon="@drawable/siyah_help">
+    </item>
+    <item
+        android:title="Gizlilik ve Yardım"
+        android:id="@+id/gizlilik"
+        android:icon="@drawable/siyah_gizlilik">
+
+    </item>
+    <item
+        android:id="@+id/qrkod"
+        android:icon="@drawable/qrkod_siyah"
+        android:title="Academy Web / Masaüstü"></item>
+</menu>

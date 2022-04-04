@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_birinci_home"
+        android:icon="@drawable/anasayfa_siyah"
+        android:title="Anasayfa" />
+    <item
+        android:id="@+id/action_ikinci_arama"
+        android:icon="@drawable/arama_beyaz"
+        android:title="Arama" />
+    <item
+        android:id="@+id/action_ücüncü_profil"
+        android:icon="@drawable/hesap_kare_siyah"
+        android:title="Profil" />
+</menu>
